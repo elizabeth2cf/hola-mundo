@@ -7,7 +7,7 @@
   <script src="script.js"></script>
 </head>
 <body>
-  <h1>Bienvenidos Hola soy Elizabeth</h1>
+  <h1> Hola soy Elizabeth</h1>
   <h2>primera clase y modificacion del codigo</2>
 </body>
 </html>
