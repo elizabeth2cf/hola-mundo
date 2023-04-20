@@ -7,7 +7,7 @@
   <script src="script.js"></script>
 </head>
 <body>
-  <h1>Bienvenidos Hola Mundo</h1>
-  <h2>ChoicesPracticas Profesionalizantes</2>
+  <h1>Hola que onda</h1>
+  <h2>clase1 practica 1 juego y cambios al codigo</2>
 </body>
 </html>
